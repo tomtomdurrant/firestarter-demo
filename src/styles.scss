@@ -51,7 +51,7 @@ $firestarter-demo-accent: mat-palette($mat-pink, A200, A100, A400);
 $firestarter-demo-warn: mat-palette($mat-red);
 
 // Create the theme object (a Sass map containing all of the palettes).
-$firestarter-demo-theme: mat-light-theme(
+$firestarter-demo-theme: mat-dark-theme(
   $firestarter-demo-primary,
   $firestarter-demo-accent,
   $firestarter-demo-warn
